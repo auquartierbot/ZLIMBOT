@@ -1,9 +1,9 @@
 {
-    "token": "TOKEN HERE",
+    "token": "39f6eb6ac2e82a25511cde3fb467076ec4dcedcbb8d13cd466be923936cbe4e1",
     "prefix": "!",
-    "host": "HOST HERE",
-    "user": "USER HERE",
-    "password": "PASSWORD HERE",
-    "database": "DATABASE NAME HERE",
+    "host": "Sam-D",
+    "user": "Sam-D",
+    "password": "Kurdistan2010",
+    "database": "AuQuartier",
     "red": "#b70000"
 }
